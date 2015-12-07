@@ -1,4 +1,5 @@
-Taffer colours, slightly edited from Tamber-Krain's colours
+Taffer colours, slightly edited from Tamber-Krain's colours.
+
 [BLACK_R:25]
 [BLACK_G:25]
 [BLACK_B:25]
@@ -17,9 +18,9 @@ Taffer colours, slightly edited from Tamber-Krain's colours
 [MAGENTA_R:195]
 [MAGENTA_G:70]
 [MAGENTA_B:156]
-[BROWN_R:153]
-[BROWN_G:106]
-[BROWN_B:81]
+[BROWN_R:116]
+[BROWN_G:116]
+[BROWN_B:90]
 [LGRAY_R:170]
 [LGRAY_G:196]
 [LGRAY_B:178]
