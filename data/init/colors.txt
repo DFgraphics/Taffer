@@ -1,7 +1,8 @@
 Pastel Psygnosia, by Taffer.
-[BLACK_R:25]
-[BLACK_G:25]
-[BLACK_B:25]
+
+[BLACK_R:7]
+[BLACK_G:7]
+[BLACK_B:7]
 [BLUE_R:76]
 [BLUE_G:96]
 [BLUE_B:135]
@@ -17,8 +18,8 @@ Pastel Psygnosia, by Taffer.
 [MAGENTA_R:108]
 [MAGENTA_G:91]
 [MAGENTA_B:123]
-[BROWN_R:115]
-[BROWN_G:97]
+[BROWN_R:120]
+[BROWN_G:102]
 [BROWN_B:80]
 [LGRAY_R:86]
 [LGRAY_G:86]
