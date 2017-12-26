@@ -1,8 +1,9 @@
 {
     "author": "Taffer",
-    "content_version": "v4.7",
+    "url": "http://www.bay12forums.com/smf/index.php?topic=107924.0",
+    "content_version": "v5.0.2 (2017-11-25)",
     "df_min_version": "0.42.05",
-    "df_max_version": "0.43.05",
-    "title": "Taffer 10px & 20px",
-    "tooltip": "Attractive drop-in replacements for ASCII purists.\nDiagonal wall variants included, select customize to choose your favorite version!"
+    "df_max_version": "",
+    "title": "Taffer 10/20x",
+    "tooltip": "Attractive drop-in replacements for ASCII purists with many variants to choose from!"
 }

@@ -81,9 +81,7 @@ Use these to set the color of wounded body parts.  The format is <foreground col
 
 This controls the display of areas that are far below outside.  The format is SKY:<character>:<foreground color>:<background color>:<brightness>.  The <character> can be either an ASCII tile number or a character in quotes, like '#'.
 
-[SKY:0:0:0:0]
-
-Taffer: This used to be SKY:178:3:0:0.
+[SKY:0:0:0:0] Taffer: this used to be SKY:178:3:0:0.
 
 As above, for inside/subterranean areas.
 
@@ -91,7 +89,7 @@ As above, for inside/subterranean areas.
 
 Pillar tile, <character> as above.
 
-[PILLAR_TILE:'O']
+[PILLAR_TILE:255] Taffer: this used to be PILLAR_TILE:'O'.
 
 Track tiles.  I at the end inverts the material colors.
 
@@ -138,10 +136,10 @@ Tiles for the parts of trees.
 [TREE_BRANCHES_DEAD:172]
 [TREE_SMOOTH_BRANCHES:'#']
 [TREE_SMOOTH_BRANCHES_DEAD:'#']
-[TREE_TRUNK_PILLAR:'O']
-[TREE_TRUNK_PILLAR_DEAD:'O']
-[TREE_CAP_PILLAR:'O']
-[TREE_CAP_PILLAR_DEAD:'O']
+[TREE_TRUNK_PILLAR:255] Taffer: this used to be TREE_TRUNK_PILLAR:'O'.
+[TREE_TRUNK_PILLAR_DEAD:255] Taffer: this used to be TREE_TRUNK_PILLAR_DEAD:'O'.
+[TREE_CAP_PILLAR:255] Taffer: this used to be TREE_CAP_PILLAR:'O'.
+[TREE_CAP_PILLAR_DEAD:255] Taffer: this used to be TREE_CAP_PILLAR_DEAD:'O'.
 [TREE_TRUNK_N:205]
 [TREE_TRUNK_S:205]
 [TREE_TRUNK_N_DEAD:205]
