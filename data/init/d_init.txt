@@ -136,10 +136,10 @@ Tiles for the parts of trees.
 [TREE_BRANCHES_DEAD:172]
 [TREE_SMOOTH_BRANCHES:'#']
 [TREE_SMOOTH_BRANCHES_DEAD:'#']
-[TREE_TRUNK_PILLAR:255] Taffer: this used to be TREE_TRUNK_PILLAR:'O'.
+[TREE_TRUNK_PILLAR:255]      Taffer: this used to be TREE_TRUNK_PILLAR:'O'.
 [TREE_TRUNK_PILLAR_DEAD:255] Taffer: this used to be TREE_TRUNK_PILLAR_DEAD:'O'.
-[TREE_CAP_PILLAR:255] Taffer: this used to be TREE_CAP_PILLAR:'O'.
-[TREE_CAP_PILLAR_DEAD:255] Taffer: this used to be TREE_CAP_PILLAR_DEAD:'O'.
+[TREE_CAP_PILLAR:255]        Taffer: this used to be TREE_CAP_PILLAR:'O'.
+[TREE_CAP_PILLAR_DEAD:255]   Taffer: this used to be TREE_CAP_PILLAR_DEAD:'O'.
 [TREE_TRUNK_N:205]
 [TREE_TRUNK_S:205]
 [TREE_TRUNK_N_DEAD:205]

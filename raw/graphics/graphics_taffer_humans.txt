@@ -4,7 +4,7 @@ graphics_taffer_human
 
 [TILE_PAGE:TAF_H]
 	[FILE:taffer/taffer_humans.png]
-	[TILE_DIM:20:20]
+	[TILE_DIM:18:18]
 	[PAGE_DIM:4:1]
 
 [CREATURE_GRAPHICS:HUMAN]
